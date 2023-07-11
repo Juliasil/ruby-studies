@@ -6,6 +6,6 @@
 
 a = 455
 b = 68
-a = a + b
+c = a + b
 
-puts a
+puts "O resultado da operação é #{c}"
